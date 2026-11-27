@@ -1,4 +1,9 @@
 
+## ========================================================
+##                   Ian David Blas Amador
+##                   TIID - 223
+# ========================================================
+
 class Nodo:
     def __init__(self, numero):
         # Valor que tendrá el nodo
